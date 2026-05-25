@@ -1,4 +1,14 @@
 {
   "_base": "https://raw.githubusercontent.com/trevorkinzer/samples/main/",
-  "vocals": "glue/vocals36.wav"
+
+  "glue": {
+    "vocals": "glue/vocals.wav"
+  },
+
+  "kids": {
+    "verse": "kids/verse.wav",
+    "verse2": "kids/verse2.wav",
+    "chorus": "kids/chorus.wav",
+    "special": "kids/special.wav"
+  }
 }
